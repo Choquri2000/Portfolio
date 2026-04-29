@@ -1,56 +1,73 @@
-# Beka Chokuri - CV & Portfolio / ბექა ჩოხური - CV და პორტფოლიო
+# ბექა ჩოქური - CV და პორტფოლიო / Beka Chokuri - CV & Portfolio
 
-## About Me / ჩემს შესახებ
+## ჩემს შესახებ / About Me
 
-**EN:** Data Scientist and Data Analyst with experience in machine learning pipelines and data warehouse architecture.
+**ქართული:** მონაცემთა მეცნიერი და მონაცემთა ანალიტიკოსი ვარ. გამოცდილება მაქვს მანქანური სწავლის პაიპლაინებსა და მონაცემთა საწყობის არქიტექტურაში.
 
-**KA:** მონაცემთა მეცნიერი და მონაცემთა ანალიტიკოსი, მანქანური სწავლის პაიპლაინებისა და მონაცემთა საწყობის არქიტექტურის გამოცდილებით.
-
-## 📂 Projects / პროექტები
-
-### 1. House Price Prediction Pipeline / სახლის ფასის პროგნოზირების პაიპლაინი
-
-**EN:** Complete machine learning pipeline for house price prediction with data processing, model training, and results visualization.
-
-🔗 [House_Price_Prediction_Pipeline](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
-
-**Technologies / ტექნოლოგიები:** Python, Pandas, Scikit-Learn, Matplotlib
+**English:** I am a Data Scientist and Data Analyst with experience in machine learning pipelines and data warehouse architecture.
 
 ---
 
-**KA:** სრული მანქანური სწავლის პაიპლაინი სახლის ფასის პროგნოზირებისთვის მონაცემთა დამუშავებით, მოდელის ტრენინგით და შედეგების ვიზუალიზაციით.
+## პროექტები / Projects
 
-🔗 [House_Price_Prediction_Pipeline](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
+### 1. სახლის ფასის პროგნოზირების პაიპლაინი / House Price Prediction Pipeline
+
+**ქართული:** სრული მანქანური სწავლის პაიპლაინი სახლის ფასის პროგნოზირებისთვის მონაცემთა დამუშავებით, მოდელის ტრენინგითა და შედეგების ვიზუალიზაციით.
+
+🔗 [სახლის ფასის პროგნოზირების პაიპლაინი](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
 
 **ტექნოლოგიები:** Python, Pandas, Scikit-Learn, Matplotlib
 
-### 2. Data Warehouse (DWH) Project / მონაცემთა საწყობის (DWH) პროექტი
+---
 
-**EN:** Data Warehouse architecture designed for business analytics with automated ETL processes.
+**English:** Complete machine learning pipeline for house price prediction with data processing, model training, and results visualization.
 
-🔗 [DWH-Project](https://github.com/Choquri2000/DWH-Project)
+🔗 [House Price Prediction Pipeline](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
 
-**Technologies / ტექნოლოგიები:** SQL, PostgreSQL, ETL, Data Modeling
+**Technologies:** Python, Pandas, Scikit-Learn, Matplotlib
 
 ---
 
-**KA:** მონაცემთა საწყობის არქიტექტურა ბიზნეს ანალიტიკისთვის ავტომატიზებული ETL პროცესებით.
+### 2. მონაცემთა საწყობის (DWH) პროექტი / Data Warehouse Project
 
-🔗 [DWH-Project](https://github.com/Choquri2000/DWH-Project)
+**ქართული:** მონაცემთა საწყობის არქიტექტურა ბიზნეს ანალიტიკისთვის ავტომატიზებული ETL პროცესებით.
+
+🔗 [მონაცემთა საწყობის პროექტი](https://github.com/Choquri2000/DWH-Project)
 
 **ტექნოლოგიები:** SQL, PostgreSQL, ETL, მონაცემთა მოდელირება
 
-## 📄 CV / CV
+---
 
-**EN:** [Download CV (PDF)](./Beka.Chokuri.CV.pdf)
+**English:** Data Warehouse architecture designed for business analytics with automated ETL processes.
 
-**KA:** [ჩამოტვირთე CV (PDF)](./Beka.Chokuri.CV.pdf)
+🔗 [Data Warehouse Project](https://github.com/Choquri2000/DWH-Project)
 
-## 📞 Contact / კონტაქტი
-
-- **GitHub:** [@Choquri2000](https://github.com/Choquri2000)
-- **Email / ელფოსტა:** [Your Email Here]
+**Technologies:** SQL, PostgreSQL, ETL, Data Modeling
 
 ---
 
-*This repository serves as a central hub for my professional profile and projects. / ეს რეპოზიტორი ჩემი პროფესიული პროფილისა და პროექტების ცენტრალურ ჰაბს წარმოადგენს.*
+## CV / რეზიუმე
+
+**ქართული:** 📄 [ჩამოტვირთე CV (PDF)](./Beka.Chokuri.CV.DA.pdf)
+
+**English:** 📄 [Download CV (PDF)](./Beka.Chokuri.CV.DA.pdf)
+
+---
+
+## კონტაქტი / Contact
+
+- **GitHub:** [@Choquri2000](https://github.com/Choquri2000)
+- **ელფოსტა / Email:** beqachoquri@gmail.com
+
+---
+
+*ქართული: ეს რეპოზიტორი ჩემი პროფესიული პროფილისა და პროექტების ცენტრალურ ჰაბს წარმოადგენს.*
+
+*English: This repository serves as a central hub for my professional profile and projects.*
+
+---
+
+**სწრაფი ბმულები / Quick Links:**
+- [სახლის ფასის პროგნოზირება](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
+- [DWH პროექტი](https://github.com/Choquri2000/DWH-Project)
+- [ჩემი CV](./Beka.Chokuri.CV.DA.pdf)
