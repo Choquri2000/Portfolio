@@ -1,88 +1,72 @@
-# ბექა ჩოქური - CV & პორტფოლიო
+# 👋 გამარჯობა, მე ვარ ბექა ჩოქური / Hi, I'm Beka Chokuri
 
-## 🔗 სწრაფი ბმულები / Quick Links
+### 📊 Data Analyst / Developer
 
-სახლის ფასის პროგნოზირება (ქართული):  
-github.com/Choquri2000/House_Price_Prediction_Pipeline
-
-House Price Prediction (English):  
-github.com/Choquri2000/House_Price_Prediction_Pipeline
-
-მონაცემთა საწყობი (ქართული):  
-github.com/Choquri2000/DWH-Project
-
-Data Warehouse Project (English):  
-github.com/Choquri2000/DWH-Project
-
-ჩემი CV:  
-[ჩამოტვირთე აქ](./Beka.Chokuri.CV.DA.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/beka-chokuri/)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:beqachoquri@gmail.com)
+[![CV](https://img.shields.io/badge/Download-CV-green?style=flat&logo=adobe-acrobat-reader)](./Beka.Chokuri.CV.DA.pdf)
 
 ---
 
-# ბექა ჩოქური - CV & პორტფოლიო
+## 📝 ჩემს შესახებ / About Me
 
-## ჩემს შესახებ
-მონაცემთა მეცნიერი და მონაცემთა ანალიტიკოსი ვარ. გამოცდილება მაქვს მანქანური სწავლისა და მონაცემთა საწყობის არქიტექტურაში.
+**🇬🇪 ქართული:**
+მე ვარ მონაცემთა ანალიტიკოსი და დეველოპერი, რომელსაც აქვს გამოცდილება რთულ სტატისტიკურ მოდელირებაში, მონაცემთა ინჟინერიასა და ETL პროცესების არქიტექტურაში. ჩემი მიზანია მონაცემების გარდაქმნა ქმედით სტრატეგიულ ინფორმაციად ბიზნესის ზრდისთვის. მაქვს გამოცდილება საბანკო და საჯარო სექტორში მუშაობის.
 
-## პროექტები
-
-### 1. სახლის ფასის პროგნოზირების პაიპლაინი
-სრული მანქანური სწავლის პაიპლაინი სახლის ფასის პროგნოზირებისთვის მონაცემთა დამუშავებით, მოდელის ტრენინგითა და შედეგების ვიზუალიზაციით.
-
-🔗 [სახლის ფასის პროგნოზირების პაიპლაინი](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
-
-**ტექნოლოგიები:** Python, Pandas, Scikit-Learn, Matplotlib
+**🇺🇸 English:**
+I am a high-performance Data Analyst with a background in complex statistical modeling and data engineering. Driven by a passion for solving business challenges, I specialize in architecting robust ETL pipelines and translating high-volume datasets into actionable strategic insights.
 
 ---
 
-### 2. მონაცემთა საწყობის (DWH) პროექტი
-მონაცემთა საწყობის არქიტექტურა ბიზნეს ანალიტიკისთვის ავტომატიზებული ETL პროცესებით.
+## 🛠️ ტექნოლოგიები / Tech Stack
 
-🔗 [მონაცემთა საწყობის პროექტი](https://github.com/Choquri2000/DWH-Project)
-
-**ტექნოლოგიები:** SQL, PostgreSQL, ETL, მონაცემთა მოდელირება
-
-## 📄 ჩემი CV
-[ჩამოტვირთე CV (PDF)](./Beka.Chokuri.CV.DA.pdf)
-
-## 📞 კონტაქტი
-- **GitHub:** [@Choquri2000](https://github.com/Choquri2000)
-- **ელფოსტა:** beqachoquri@gmail.com
+| სფერო | ტექნოლოგიები |
+| :--- | :--- |
+| **მონაცემთა ანალიზი** | Python (Pandas, Numpy, Scikit-Learn), SQL, Excel |
+| **ვიზუალიზაცია (BI)** | Power BI (DAX), Tableau, Qlik Sense |
+| **მონაცემთა ბაზები/ETL** | PostgreSQL, ETL Pipelines, AWS, Data Modeling (3NF, SCD2) |
+| **სხვა** | Machine Learning, Statistics, Git |
 
 ---
 
-# Beka Chokuri - CV & Portfolio
+## 📂 გამორჩეული პროექტები / Featured Projects
 
-## About Me
-I am a Data Scientist and Data Analyst with experience in machine learning pipelines and data warehouse architecture.
+### 🏠 [House Price Prediction Pipeline](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
+მანქანური სწავლის სრული პაიპლაინი სახლის ფასების პროგნოზირებისთვის.
+- **Tools:** Python, Scikit-Learn, Pandas, Matplotlib.
+- **Key Task:** მონაცემთა წმენდა, ფიჩერების ინჟინერია და მოდელის ოპტიმიზაცია.
 
-## Projects
-
-### 1. House Price Prediction Pipeline
-Complete machine learning pipeline for house price prediction with data processing, model training, and results visualization.
-
-🔗 [House Price Prediction Pipeline](https://github.com/Choquri2000/House_Price_Prediction_Pipeline)
-
-**Technologies:** Python, Pandas, Scikit-Learn, Matplotlib
+### 🏗️ [Data Warehouse (DWH) Project](https://github.com/Choquri2000/DWH-Project)
+ბიზნეს ანალიტიკისთვის შექმნილი მონაცემთა საწყობის არქიტექტურა.
+- **Tools:** SQL, PostgreSQL, ETL Automation.
+- **Key Task:** მონაცემთა მოდელირება, ავტომატიზებული ETL პროცესები და მონაცემთა ვალიდაცია.
 
 ---
 
-### 2. Data Warehouse (DWH) Project
-Data Warehouse architecture designed for business analytics with automated ETL processes.
+## 💼 სამუშაო გამოცდილება / Work Experience
 
-🔗 [Data Warehouse Project](https://github.com/Choquri2000/DWH-Project)
+*   **Bank of Georgia** | Analyst Developer (2023 - 2025)
+*   **Bivision** | BI Analyst (2022 - 2023)
+*   **National Bank of Georgia** | Data Analyst Intern (2022)
+*   **EPAM / Georgia's Future Academy** | Data Analytics & ETL Projects (2024 - 2025)
 
-**Technologies:** SQL, PostgreSQL, ETL, Data Modeling
+---
 
-## 📄 My CV
-[Download CV (PDF)](./Beka.Chokuri.CV.DA.pdf)
+## 🎓 განათლება / Education
 
-## 📞 Contact
+*   **ISET - International School of Economics at TSU**
+    *   Bachelor's Degree (2019 - 2023)
+*   **Forset**
+    *   Data Science Project Participant
+
+---
+
+## 📫 კონტაქტი / Contact Information
+
+- **LinkedIn:** [beka-chokuri](https://www.linkedin.com/in/beka-chokuri/)
 - **GitHub:** [@Choquri2000](https://github.com/Choquri2000)
 - **Email:** beqachoquri@gmail.com
+- **Location:** Tbilisi, Georgia 🇬🇪
 
 ---
-
-*ქართული: ეს რეპოზიტორი ჩემი პროფესიული პროფილისა და პროექტების ცენტრალურ ჰაბს წარმოადგენს.*
-
-*English: This repository serves as a central hub for my professional profile and projects.*
+*Generated by Beka Chokuri's Portfolio Hub*
