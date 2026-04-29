@@ -2,11 +2,20 @@
 
 ## 🔗 სწრაფი ბმულები / Quick Links
 
-სახლის ფასის პროგნოზირება (ქართული): github.com/Choquri2000/House_Price_Prediction_Pipeline
-House Price Prediction (English): github.com/Choquri2000/House_Price_Prediction_Pipeline
-მონაცემთა საწყობი (ქართული): github.com/Choquri2000/DWH-Project
-Data Warehouse Project (English): github.com/Choquri2000/DWH-Project
-ჩემი CV: [ჩამოტვირთე აქ](./Beka.Chokuri.CV.DA.pdf)
+სახლის ფასის პროგნოზირება (ქართული):  
+github.com/Choquri2000/House_Price_Prediction_Pipeline
+
+House Price Prediction (English):  
+github.com/Choquri2000/House_Price_Prediction_Pipeline
+
+მონაცემთა საწყობი (ქართული):  
+github.com/Choquri2000/DWH-Project
+
+Data Warehouse Project (English):  
+github.com/Choquri2000/DWH-Project
+
+ჩემი CV:  
+[ჩამოტვირთე აქ](./Beka.Chokuri.CV.DA.pdf)
 
 ---
 
